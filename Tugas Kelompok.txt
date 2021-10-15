@@ -1,0 +1,74 @@
+1) Afifah Nur Utami       (5200411211)
+2) Herlambang Kurniawan	  (5200411434)
+3) Muhammad Aqza Anugrah	(5200411557)
+4) Gunawan	              (5200411566)
+
+
+1.1 Latar Belakang
+    Dalam kehidupan bermasyarakat ini kepadatan penduduk bisa mengakibatkan banyak terjadinya bermacam-macam kecelakan seperti contohnya adalah kebakaran. Kebakaran ini bisa diakibatkan oleh hal-hal sepele seperti kebocoran tabung gas dan konsleting listrik. Di kota-kota besar seperti Jakarta,Bandung,Semarang,Yogyakarta dan sebagainya yang mempunyai kawasan padat penduduk tentunya kejadian ini tidak terhindarkan.
+    
+Pekerjaan pemadam kebakaran merupakan pekerjaan yang mengandung risiko kerja sangat tinggi. petugas pemadam kebakaran merupakan penyelamat yang paling di tunggu saat terjadi kebakaran, namun pada kenyataanya, tidak semua semua petugas petugas tidak cepat tanggap, mungkin disebabkan kurangnya sisi religiusitas pada diri petugas pemadam kebakaran.
+Keterbatasan informasi serta keterlambatan akibat penerimaan informasi juga mempengaruhi pemadam kebakaran dalam melakukan pekerjaanya dan hal tersebut juga memungkinkan terjadinya korban jiwa dan kerusakan material yang jumlahnya tentu tidak sedikit. Penanganan yang cepat dan tanggap dari warga maupun aparat juga sangat diharapkan partisipasinya.
+
+Data laporan juga masih belum terorganisir dengan baik yang mana hal ini dapat atau mampu menjadikan suatu daerah yang rawan akan terjadinya kebakaran dapat lebih diwaspadai.
+Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakaran yang meluas dan mengindikasi kebakaran sejak dini dengan cara mengirim lokasi melalui GPS sehingga petugas dapat mengetahui lokasi kebakaran terjadi secara cepat. Serta mampu menyimpan data-data yang ada secara lebih teroganisir sehingga daerah-daerah yang rawan kebakaran dapat diketahui dan diwaspadai.
+
+1.2.	Identifikasi Masalah
+      Berdasarkan latar belakang yang telah dijelaskan dalam pelaksanaan pelayanan publik petugas pemadam kebakaran mengalami banyak kendala seperti contohnya.
+          1.	Keterlambatan dalam penerimaan informasi kejadian kebakaran yang diketahui setelah api membesar sehingga menimbulkan banyak kerugian.
+          2.	Informasi lokasi yang belum optimal dan penentuan jalur menuju lokasi kebakaran yang diterima oleh pihak pemadam kebakaran sehingga hal tersebut menyebabkan        
+              keterlambatan tiba dilokasi kebakaran.
+          3.	Pengumpulan data kejadian kebakaran yang digunakan belum terorganisir dengan baik.
+          
+          
+1.3.	Maksud dan Tujuan
+    Maksud dan tujuan dari dilakukanya penelitian ini adalah seperti berikut :
+    1.3.1.	Maksud
+            Maksud dari penelitian ini adalah membangun sebuah aplikasi pelaporan kebakaran dan juga dapat memonitoring keadaan pada suatu bangunan berbasis IoT (Internet Of  
+            Thing).
+    1.3.2.	Tujuan
+            Tujuan dari penelitian ini dibuatkannya aplikasi atau software pelaporan pemadam kebakaran yang bertujuan seperti berikut :
+            1.	Mempermudah petugas pemadam kebakaran dalam mengetahui lokasi kebakaran melalui GPS
+            2.	Memberikan Informasi secara singkat dan cepat kepada warga sekitar dalam penanggulangan dinas kebakaran saat terjadinya kebakaran
+            3.	Memberikan informasi tentang kebarakan kepada warga dalam bentuk statistik dalam lokasi tertentu setiap bulannya (agar warga dapat mengetahui daerah warga dapat 
+                mengetahui daerah mana yang sering mengalami kebakaran).
+                
+1.4.	Metodologi Penelitian
+      Metodologi Penelitian berasal dari kata “metode” yang artinya adalah cara yang tepat untuk melakukan sesuatu, dan “logos” yang artinya adalah ilmu atau pengetahuan. Jadi, metodologi adalah cara melakukan sesuatu dengan menggunakan pikiran secara seksama untuk mencapai suatu tujuan. Metode penelitian yang digunakan adalah metode penelitian analisis deskriptif. 
+      
+      Penelitian deskriptif merupakan suatu metode penelitian yang menggambarkan karakteristik populasi atau fenomena yang sedang diteliti. Sehingga metode penelitian satu ini fokus utamanya adalah menjelaskan objek penelitiannya. Sehingga menjawab apa peristiwa atau apa fenomena yang terjadi. Metode ini memiliki tahap pengumpulan data
+
+      1.4.1.	Metode Penelitian
+          Dalam melakukan pembuatan perangkat lunak ini metode yang digunakan adalah Waterfall Modelini   metode   yang digunakan   untuk menjelaskan   hasil   peneltian 
+      menggunakan   teknik   atau   metode   deskriptif.
+
+              1)	Requirement definition
+                  Tahap menganalisis apa yang dibutuhkan sistem mulai dari fungsionalitas sistem dan non fungsionalitas.
+              2)	System and sofware design
+                  Membuat rancangan sistem dimulai dari kebutuhan rancangan bentuk
+                  perangkat keras (things), kebutuhan antarmuka aplikasi, dan kebutuhan desain
+                  database.
+              3)	Implementation and unit testing
+                  Menerapkan sistem dan desain ke dalam perakitan perangkat keras atau ke dalam kode-kode dengan bahasa pemrograman yang telah ditentukan. Pengujian melibatkan 
+                  verifikasi bahwa setiap unit memenuhi spesifikasinya.
+              4)	Integration and system testing
+                  Setiap unit baik itu dari sisi perangkat lunak dan perangkat keras diuji secara keseluruhan untuk diketahui kesesuaiannya dengan rancangan sebelumnya.
+              5)	Operation and maintence
+                  Bertindak dengan cepat untuk menganalisis sebuah kesalahan di saat sistem sedang berjalan lalu melakukan perbaikan secepatnya untuk menyelesaikan permasalahan 
+                  tersebut.
+          
+        1.4.2.	Pengumpulan Data
+        a.	Wawancara
+            Wawancara adalah salah satu metode pengumpulan informasi dengan cara bertanya kepada narasumbernya secara langung. Data ini diperoleh dari hasil wawancara  langsung 
+        dengan Ketua Pemadam kebakaran daerah setempat.
+        b.	Observasi
+            Observasi merupakan metode pengumpulan data dengan cara melakukan pengamatan dari data yang ada. Disini kami melakukan observasi dengan cara mengamati data dari 
+            data-data yang telah dikumpulkan sebelumnya oleh Dinas Pemadam Kebakaran.
+        c.	Studi Pusktaka
+            Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan 
+            literatur.
+
+1.5.	Penutup
+        Dari hasil penelitian kami dapat diambil kesimpulan yaitu aplikasi ini wajib untuk digunakan oleh masyarakat agar dapat mencegah atau meminimalisir dampak dari kebakaran. 
+
+
