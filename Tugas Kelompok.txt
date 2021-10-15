@@ -1,7 +1,7 @@
 1) Afifah Nur Utami         (5200411211)
-2) Herlambang Kurniawan	    (5200411434)
-3) Muhammad Aqza Anugrah	(5200411557)
-4) Gunawan	                (5200411566)
+2) Herlambang Kurniawan     (5200411434)
+3) Muhammad Aqza Anugrah    (5200411557)
+4) Gunawan                  (5200411566)
 
 
 1.1. Latar Belakang
@@ -24,14 +24,13 @@ Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakar
 1.3. Maksud dan Tujuan
     Maksud dan tujuan dari dilakukanya penelitian ini adalah seperti berikut :
     1.3.1.	Maksud
-            Maksud dari penelitian ini adalah membangun sebuah aplikasi pelaporan kebakaran dan juga dapat memonitoring keadaan pada suatu bangunan berbasis IoT (Internet Of  
-            Thing).
+                Maksud dari penelitian ini adalah membangun sebuah aplikasi pelaporan kebakaran dan juga dapat memonitoring keadaan pada suatu bangunan berbasis IoT.
     1.3.2.	Tujuan
-            Tujuan dari penelitian ini dibuatkannya aplikasi atau software pelaporan pemadam kebakaran yang bertujuan seperti berikut :
-            1.	Mempermudah petugas pemadam kebakaran dalam mengetahui lokasi kebakaran melalui GPS
-            2.	Memberikan Informasi secara singkat dan cepat kepada warga sekitar dalam penanggulangan dinas kebakaran saat terjadinya kebakaran
-            3.	Memberikan informasi tentang kebarakan kepada warga dalam bentuk statistik dalam lokasi tertentu setiap bulannya (agar warga dapat mengetahui daerah warga dapat 
-                mengetahui daerah mana yang sering mengalami kebakaran).
+                Tujuan dari penelitian ini dibuatkannya aplikasi atau software pelaporan pemadam kebakaran yang bertujuan seperti berikut :
+                    1.	Mempermudah petugas pemadam kebakaran dalam mengetahui lokasi kebakaran melalui GPS
+                    2.	Memberikan Informasi secara singkat dan cepat kepada warga sekitar dalam penanggulangan dinas kebakaran saat terjadinya kebakaran
+                    3.	Memberikan informasi tentang kebarakan kepada warga dalam bentuk statistik dalam lokasi tertentu setiap bulannya (agar warga dapat mengetahui daerah 
+                        warga dapat mengetahui daerah mana yang sering mengalami kebakaran).
                 
 1.4. Metodologi Penelitian
       Metodologi Penelitian berasal dari kata “metode” yang artinya adalah cara yang tepat untuk melakukan sesuatu, dan “logos” yang artinya adalah ilmu atau pengetahuan. Jadi, metodologi adalah cara melakukan sesuatu dengan menggunakan pikiran secara seksama untuk mencapai suatu tujuan. Metode penelitian yang digunakan adalah metode penelitian analisis deskriptif. 
@@ -68,7 +67,7 @@ Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakar
                 Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan 
             literatur.
 
-1.5.	Penutup
+1.5. Penutup
         Dari hasil penelitian kami dapat diambil kesimpulan yaitu aplikasi ini wajib untuk digunakan oleh masyarakat agar dapat mencegah atau meminimalisir dampak dari kebakaran. 
 
 
