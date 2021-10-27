@@ -85,17 +85,21 @@ Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakar
                
           
         1.4.3.	Pengumpulan Data
-        a.	Wawancara
+            a.	Wawancara
                Data ini diperoleh dari hasil wawancara  langsung dengan Ketua Pemadam kebakaran daerah setempat. Hasil dari wawancara ini adalah berupa data-data tentang
                kebakaran, faktor-faktor penyebab terjadinya kebakaran serta berbagai kurang efektifnya pemadam kebakaran ketika terjadi kebakaran.
             
-        b.	Observasi
+            b.	Observasi
                 Disini kami melakukan observasi dengan cara mengamati data dari data-data yang telah dikumpulkan sebelumnya oleh Dinas Pemadam Kebakaran. Dan mengamati berbagai
                 kejadian kebakaran yang ada di dunia sebagai perbandingannya.
             
-        c.	Studi Pusktaka
+            c.	Studi Pusktaka
                Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan
-               literatur. Kami mendapatkan literatur-literatur yang terkait melalui google schoolar,
+               literatur. Kami mendapatkan literatur-literatur yang terkait melalui google schoolar.
+               
+                    Sehingga berdasarkan data-data yang kami peroleh dari berbagai sumber , aplikasi ini nantinya akan digunkan oleh masyarakat dan pemadam kebakaran guna 
+               dampak kebakaran seperti keterlambatan informasi ,ketidakjelasan posisi atau lokasi dan membantu masyarakat untuk mengetahui daerah-daerah yang rawan dan 
+               terjadi kebakaran sehingga masyarakat dapat lebih waspada.
 
 1.5. Penutup
         Dari hasil penelitian kami dapat diambil kesimpulan yaitu aplikasi ini wajib untuk digunakan oleh masyarakat agar dapat mencegah atau meminimalisir dampak dari kebakaran. 
