@@ -53,19 +53,33 @@ Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakar
               5) Operation and maintence
                   Bertindak dengan cepat untuk menganalisis sebuah kesalahan di saat sistem sedang berjalan lalu melakukan perbaikan secepatnya untuk menyelesaikan permasalahan 
                   tersebut.
+                  
+        1.4.2. Alur Aliran Data
+               - Diagram Konteks
+                    Pada diagram konteks kali ini terdapat 2 entitas yaitu pemadam kebakaran dan masyarakat , terdapat juga 1 sistem yaitu aplikasi pelaporan pemadam kebakaran                     dan pada masing-masing entitas memiliki 3 input data dan 2 output data yang mana data-data ini saling berhubungan satu sama lain seperti melaporkan                             kebakaran berhubungan dengan laporan kebakaran ,dan lain-lain.
+                    
+               - Diagram level 0
+                   Pada diagram kali ini terdapat 2 entitas sama seperti sebelumnya tetapi disini memiiliki 3 sistem yaitu Proses login,Proses pelaporan dan Proses peninjauan.                    Serta memiliki alur data input dan output yang berbeda-beda . Disini juga terdapat 2 data store yaitu data store Database user dan Database kebakaran.                          Database user adalah database yang menampung data diri user seperti email dan password sedangkan Database Kebakaran adalah database yang digunakan untuk                        menampung data-data kebakaran seperti lokasi, jumlah korban ,kerugian dan sebagainya
+                   
+               - Diagram level 1 proses 1
+                   Pada level 1 proses 1 merupakan bentuk lebih lanjut dari sistem 1.0 yang ada pada diagram 0. Dimana jika disini yang tadinya hanya 1 sistem menjadi 3 sistem                    yaitu proses memasukan data diri ,Proses Validasi ,Proses menuju Halaman Dashboard. Dan database yang digunakan adalah database user karena untuk pengecekan                    data login. Inti alur dari proses ini adalah user baik pemadam kebakaran / masyarakat akan memasukan data diri sebelum masuk ke aplikasi . Pengecekan terjadi                    pada proses validasi yang nantinya hasil akan diberitahukan ke masing-masing user dan user dapat melanjutkan ke halaman dashboard.
+                   
+               - Diagram level 1 proses 2
+                  Pada level 1 proses 1 merupakan bentuk lebih lanjut dari sistem 2.0 yang ada pada diagram 0. Pada proses ini lebih ke arah bagaimana masyarakat menghubungi                     pemadam kebakaran dan bagaimana pemadam kebakaran menerima serta merespon laporan tersebut. Terdapat 3 sistem / proses yaitu laporan masuk ke server kemudian                   pemanggilan dan pemadaman. Database yang digunakan disini adalah Database kebakaran karena ketika server menerima laporan maka sistem akan mengirimkan atau                     menyimpan datanya ke server.
+                  
+               - Diagram level 1 proses 3
+                  Pada level 1 proses 3 merupakan bentuk lebih lanjut dari sistem 3.0 yang ada pada diagram 0. Pada tahap ini masyarakat dapat melihat berbagai rekapan                           kebakaran sehingga masyarakat dapat melihat daerah-daerah mana saja yang rawan akan kebakaran. Pemadam kebakaran juga dapat menambahkan informasi-informasi                     kedalam database .
+               
           
-        1.4.2.	Pengumpulan Data
+        1.4.3.	Pengumpulan Data
         a.	Wawancara
-                Wawancara adalah salah satu metode pengumpulan informasi dengan cara bertanya kepada narasumbernya secara langung. Data ini diperoleh dari hasil wawancara 
-            langsung dengan Ketua Pemadam kebakaran daerah setempat.
+               Data ini diperoleh dari hasil wawancara  langsung dengan Ketua Pemadam kebakaran daerah setempat. Hasil dari wawancara ini adalah berupa data-data tentang                   kebakaran, faktor-faktor penyebab terjadinya kebakaran serta berbagai kurang efektifnya pemadam kebakaran ketika terjadi kebakaran.
             
         b.	Observasi
-                Observasi merupakan metode pengumpulan data dengan cara melakukan pengamatan dari data yang ada. Disini kami melakukan observasi dengan cara mengamati data dari 
-            data-data yang telah dikumpulkan sebelumnya oleh Dinas Pemadam Kebakaran.
+                Disini kami melakukan observasi dengan cara mengamati data dari data-data yang telah dikumpulkan sebelumnya oleh Dinas Pemadam Kebakaran. Dan mengamati berbagai             kejadian kebakaran yang ada di dunia sebagai perbandingannya.
             
         c.	Studi Pusktaka
-                Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan 
-            literatur.
+               Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan               literatur. Kami mendapatkan literatur-literatur yang terkait melalui google schoolar,
 
 1.5. Penutup
         Dari hasil penelitian kami dapat diambil kesimpulan yaitu aplikasi ini wajib untuk digunakan oleh masyarakat agar dapat mencegah atau meminimalisir dampak dari kebakaran. 
