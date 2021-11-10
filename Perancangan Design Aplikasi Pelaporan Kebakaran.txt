@@ -86,20 +86,40 @@ Maka dari itu akan dibangun sebuah sistem yang mampu mencegah terjadinya kebakar
           
         1.4.3.	Pengumpulan Data
             a.	Wawancara
-               Data ini diperoleh dari hasil wawancara  langsung dengan Ketua Pemadam kebakaran daerah setempat. Hasil dari wawancara ini adalah berupa data-data tentang
-               kebakaran, faktor-faktor penyebab terjadinya kebakaran serta berbagai kurang efektifnya pemadam kebakaran ketika terjadi kebakaran.
+                Data ini diperoleh dari hasil wawancara  langsung dengan Ketua Pemadam kebakaran daerah setempat. Hasil dari wawancara ini adalah berupa data-data tentang
+                kebakaran, faktor-faktor penyebab terjadinya kebakaran serta berbagai kurang efektifnya pemadam kebakaran ketika terjadi kebakaran.
             
             b.	Observasi
                 Disini kami melakukan observasi dengan cara mengamati data dari data-data yang telah dikumpulkan sebelumnya oleh Dinas Pemadam Kebakaran. Dan mengamati berbagai
-                kejadian kebakaran yang ada di dunia sebagai perbandingannya.
+                kejadian kebakaran yang ada di dunia sebagai perbandingannya
             
             c.	Studi Pusktaka
-               Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan
-               literatur. Kami mendapatkan literatur-literatur yang terkait melalui google schoolar.
+                Studi ini dilakukan dengan cara mengunjungi atau membaca hasil penelitian yang bersangkutan melalui jurnal ,literatur serta buku-buku yang bersangkutan dengan
+                literatur. Kami mendapatkan literatur-literatur yang terkait melalui google schoolar.
                
                     Sehingga berdasarkan data-data yang kami peroleh dari berbagai sumber , aplikasi ini nantinya akan digunkan oleh masyarakat dan pemadam kebakaran guna 
                dampak kebakaran seperti keterlambatan informasi ,ketidakjelasan posisi atau lokasi dan membantu masyarakat untuk mengetahui daerah-daerah yang rawan dan 
                terjadi kebakaran sehingga masyarakat dapat lebih waspada.
+               
+                Analisi Kebutuhan
+                    A.	Pemadam Kebakaran
+                        •	Dapat mengirimkan laporan kebakaran
+                        •	Dapat menerima atau mengetahui laporan kebakaran dari masyarakat
+                        •	Dapat melihat lokasi kebakaran melalui maps
+                        •	Menyimpan data hasil laporan kebakaran ke dalam database
+                        •	Dapat mengirimkan posisi mobil pemadam ketika dalam perjalanan
+
+                    B.	Masyarakat
+                        •	Dapat melihat rekapan kebakaran yang terjadi di suatu daerah
+                        •	Dapat mengetahui posisi mobil pemadam kebakaran
+                        •	Dapat mengirim laporan terjadinya kebakaran ke pemadam melalui aplikasi
+
+                    C.	Koordinator Pemadam Kebakaran
+                        •	Dapat mengirim personil pemadam kebakaran ke lokasi
+                        •	Dapat menerima laporan dari masyarakat tentang kebakaran
+                        •	Menerima laporan pasca kebakaran 
+                        •	Dapat menyimpan laporan kebakaran kedalam database l
+
 
 1.5. Penutup
         Dari hasil penelitian kami dapat diambil kesimpulan yaitu aplikasi ini wajib untuk digunakan oleh masyarakat agar dapat mencegah atau meminimalisir dampak dari kebakaran. 
