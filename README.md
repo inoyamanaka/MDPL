@@ -4,8 +4,8 @@ Maka dari itu penting adanya sebuah aplikasi atau sofware yang dapat menghbungi 
 
 
 Anggota Kelompok
-- Afifah Nur Utami      - (5200411211)
-- Herlambang Kurniawan  - (5200411434)
-- Muhammad Aqza Anugrah - (5200411557)
-- Gunawan               - (5200411566)
+- (5200411211) - Afifah Nur Utami 
+- (5200411434) - Herlambang Kurniawan  
+- (5200411557) - Muhammad Aqza Anugrah
+- (5200411566) - Gunawan
 
